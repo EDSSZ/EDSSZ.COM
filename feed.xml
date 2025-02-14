@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>EDSSZ/.IA.com</title>
-    <link href="https://github.com/EDSSZ/.IA.com/feed.xml" rel="self" />
-    <link href="https://github.com/EDSSZ/.IA.com" />
+    <link href="https://EDSSZ.GitHub.io/feed.xml" rel="self" />
+    <link href="https://EDSSZ.GitHub.io" />
     <updated>2025-02-14T15:53:39+08:00</updated>
     <author>
         <name>M--</name>
     </author>
-    <id>https://github.com/EDSSZ/.IA.com</id>
+    <id>https://EDSSZ.GitHub.io</id>
 
     <entry>
         <title>农业雇主责任保险-PICC丨中国人民保险</title>
         <author>
             <name>M--</name>
         </author>
-        <link href="https://github.com/EDSSZ/.IA.com/nong-ye-gu-zhu-ze-ren-bao-xian-piccgun-zhong-guo-ren-min-bao-xian.html"/>
-        <id>https://github.com/EDSSZ/.IA.com/nong-ye-gu-zhu-ze-ren-bao-xian-piccgun-zhong-guo-ren-min-bao-xian.html</id>
-        <media:content url="https://github.com/EDSSZ/.IA.com/media/posts/1/1739519607684.jpg" medium="image" />
+        <link href="https://EDSSZ.GitHub.io/nong-ye-gu-zhu-ze-ren-bao-xian-piccgun-zhong-guo-ren-min-bao-xian.html"/>
+        <id>https://EDSSZ.GitHub.io/nong-ye-gu-zhu-ze-ren-bao-xian-piccgun-zhong-guo-ren-min-bao-xian.html</id>
+        <media:content url="https://EDSSZ.GitHub.io/media/posts/1/1739519607684.jpg" medium="image" />
 
         <updated>2025-02-14T15:46:54+08:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://github.com/EDSSZ/.IA.com/media/posts/1/1739519607684.jpg" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://EDSSZ.GitHub.io/media/posts/1/1739519607684.jpg" class="type:primaryImage" alt="" /></p>
                 <figure class="post__image"><img loading="lazy"  src="file:///C:/Users/admin/Documents/Publii/sites/weileygcn/input/media/posts/6/Wei-Xin-Tu-Pian_20241212153742.png" alt="" width="1242" height="1660" sizes="(max-width: 48em) 100vw, 768px" srcset="file:///C:/Users/admin/Documents/Publii/sites/weileygcn/input/media/posts/6/responsive/Wei-Xin-Tu-Pian_20241212153742-xs.webp 300w ,file:///C:/Users/admin/Documents/Publii/sites/weileygcn/input/media/posts/6/responsive/Wei-Xin-Tu-Pian_20241212153742-sm.webp 480w ,file:///C:/Users/admin/Documents/Publii/sites/weileygcn/input/media/posts/6/responsive/Wei-Xin-Tu-Pian_20241212153742-md.webp 768w ,file:///C:/Users/admin/Documents/Publii/sites/weileygcn/input/media/posts/6/responsive/Wei-Xin-Tu-Pian_20241212153742-lg.webp 1024w ,file:///C:/Users/admin/Documents/Publii/sites/weileygcn/input/media/posts/6/responsive/Wei-Xin-Tu-Pian_20241212153742-xl.webp 1360w ,file:///C:/Users/admin/Documents/Publii/sites/weileygcn/input/media/posts/6/responsive/Wei-Xin-Tu-Pian_20241212153742-2xl.webp 1600w"></figure>
             ]]>
         </content>
